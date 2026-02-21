@@ -25,7 +25,6 @@ The device combines **mechanical switches**, **RGB LEDs**, and **3D printed case
 | 4   | Heatset Inserts | For threaded screw holes in the case |
 | 1   | PCB | 4x4 keypad matrix with diodes and LED traces |
 
-**Note:** A diode is **not required for the OLED display**, as it is powered directly from the MCU I2C pins.
 
 ---
 
