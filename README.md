@@ -10,7 +10,7 @@ The keyboard features a Seeed XIAO RP2040 microcontroller, fully programmable fi
 
 ### Build Tips
 
-![Build](Assets/Build.JPEG)
+![Build](Assets/build.png)
 
 - Test the board before assembling the case  
 - Be cautious with LED soldering
